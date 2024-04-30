@@ -69,7 +69,7 @@ CGTN纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888
 西藏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226433/index.m3u8
 兵团卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/index.m3u8
 河北移动,#genre#
-CCTV1,udp://239.255.2.2:8000
+CCTV1,http://192.168.123.1:6868/udp/239.255.2.2:8000
 CCTV2,rtp://239.255.2.3:8006
 CCTV3,rtp://239.255.5.92:8364
 CCTV3,rtp://239.255.2.4:8012
